@@ -35,4 +35,4 @@ Welcome to the **Fitbit User Analysis with NumPy** project. Fitbit has become a 
 1. **Clone the Repository**: Begin by cloning this repository to your local machine using Git.
 
    ```bash
-   git clone https://github.com/your-username/fitbit-analysis.git
+   git clone https://github.com/Shivendra1-cyber/fitbit-analysis.git
